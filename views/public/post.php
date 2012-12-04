@@ -1,1 +1,1 @@
-<?php
+<h2>Single Post</h2>
